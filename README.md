@@ -59,14 +59,6 @@ Strategic recommendations such as **bundling low-margin items, vendor negotiatio
 
 ---
 
-## 📂 Repository Contents
-- `data/` → Cleaned and raw sales & purchase datasets (if shared)  
-- `analysis/` → Excel workbooks, charts, and pivot tables  
-- `report/` → Final project report (PDF)  
-- `README.md` → This documentation  
-
----
-
 ## 👤 Author
 **Bingi Sai Mohith**  
 Roll No: 22f3001702  
